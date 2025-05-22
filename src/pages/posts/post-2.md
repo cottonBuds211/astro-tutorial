@@ -1,7 +1,8 @@
 ---
-
+layout: "../../layouts/MarkDownPostLayout.astro"
 title: My Second Blog Posts
 author: Astro Learner
+pubDate: 2022-07-01
 description: "After learning some Astro, I couldn't stop!"
 image:
   url: "https://docs.astro.build/assets/arc.webp"
